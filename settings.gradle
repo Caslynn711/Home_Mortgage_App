@@ -1,0 +1,2 @@
+rootProject.name='Home Mortgage App'
+include ':app'
